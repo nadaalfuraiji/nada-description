@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *nada*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am class of 2029, pursuing a major in cybersecurity. Currently, I am a part-time after school teacher, and I love playing volleyball in my free time!_
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
